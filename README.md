@@ -1,4 +1,4 @@
 # IBM-Capstone-Project
 IBM Capstone Project
 
-Adding some text to the file
+This project will store Jupyter Notebooks and other files created/copleted as part of the IBM Capstone Applied Data Science Project 
